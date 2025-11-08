@@ -1,0 +1,18 @@
+# Python virtual environment
+.venv/
+
+# Bytecode
+__pycache__/
+*.py[cod]
+
+# PyTorch / checkpoints
+*.pth
+*.pt
+
+# Plots and evaluation artifacts
+*.png
+*.csv
+
+# IDE/Editor files
+.vscode/
+.idea/

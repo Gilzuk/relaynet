@@ -1,0 +1,8 @@
+numpy>=1.23,<2.0
+scipy>=1.8
+matplotlib
+pyyaml
+requests
+tqdm
+# Deep learning framework (choose appropriate version for your platform/GPU)
+torch>=1.12
